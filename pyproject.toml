@@ -5,3 +5,4 @@ description = "Claude Code and Codex SKILLs for PDF, Excel, Word, and PowerPoint
 requires-python = ">=3.10"
 # clarify the control flow
 # drop an unused branch
+# handle the edge case from the last release
